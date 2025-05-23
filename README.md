@@ -5,7 +5,7 @@ Este projeto foi feito como parte de um trabalho de análise de dados com Python
 
 
 
-## 🧠 Objetivo do Projeto
+##  Objetivo do Projeto
 
 O projeto buscou analisar:
 
@@ -70,3 +70,8 @@ Os dados foram tratados e organizados com o Pandas para facilitar a análise.
 ## 📌 Conclusão
 
 Esse projeto foi uma oportunidade para aprender mais sobre análise de dados e entender melhor a importância de dados bem organizados na tomada de decisão. Usar dados reais nos ajuda a enxergar melhor os problemas e pensar em soluções mais criativas e úteis.
+
+## Autor
+
+**Raphael Creates**  
+[GitHub](https://github.com/RaphaelCreates)
